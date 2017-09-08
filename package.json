@@ -1,0 +1,9 @@
+{
+  "license": "UNLICENSED",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "cors-anywhere": "^0.4.0"
+  }
+}
